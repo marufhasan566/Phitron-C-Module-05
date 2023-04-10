@@ -1,2 +1,2 @@
-3
-ODD
+ALPHA
+IS SMALL
