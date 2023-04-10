@@ -4,6 +4,7 @@ int main()
     int X;
     scanf("%c",&X);
     int N = X;
+    // if(N>='0' && N<='9') //the following can also be written like this 
     if(N>=48 && N<=57){    
         printf("IS DIGIT");
     }
